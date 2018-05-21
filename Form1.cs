@@ -18,7 +18,7 @@ namespace LeapProject_1
         {
             InitializeComponent();
         }
-        Connection conn = new Connection(@"ftp://155.17.173.56/", "testtenethealth\bhaskar.dutta", "Tenet123");
+        Connection conn = new Connection(@"ftp://155.17.173.56/", "Domain\Fname.Lname", "XXXX");
         
         private void button1_Click(object sender, EventArgs e)
         {
